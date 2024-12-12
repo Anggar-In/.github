@@ -53,7 +53,7 @@ In this capstone project, the cloud computing division plans to create a backend
 
 >>EDIT TEKS DIBAWAH INI DENGAN BACKGROUNDER MOBILE DEVELOPMENT DI PROJECT BRIEF
 
-# How to Use The Code
-* [Anggar.In Machine Learning Repository](https://github.com/Anggar-In/Machine-Learning)
-* [Anggar.In Cloud Computing Repository](https://github.com/Anggar-In/Cloud-Computing)
-* [Anggar.In Mobile Developments Repository](https://github.com/Anggar-In/Mobile-Development)
+# For More Details
+* Machine Learning: [Anggar.In Machine Learning Repository](https://github.com/Anggar-In/Machine-Learning)
+* Cloud Computing: [Anggar.In Cloud Computing Repository](https://github.com/Anggar-In/Cloud-Computing)
+* Mobile Development: [Anggar.In Mobile Developments Repository](https://github.com/Anggar-In/Mobile-Development)
