@@ -1,12 +1,8 @@
-<h1 align="center">
-<img align="center" src="https://github.com/user-attachments/assets/8a6f2ad2-2fc6-4bd4-ba68-c6674edd655b" alt="Logo Anggarin" width="500" style="border-radius: 50%;"></img>
-<br>
-<br>
-ANGGAR.IN CLOUD COMPUTING DOCUMENTATION
-</h1>
-<div align="center">
+# ![Logo Anggarin](https://github.com/user-attachments/assets/8a6f2ad2-2fc6-4bd4-ba68-c6674edd655b)
 
-# Team Profile
+# ANGGAR.IN PROJECT DOCUMENTATION
+
+## Team Profile
 
 ### Team ID : C242-PS048
 
@@ -31,10 +27,8 @@ ANGGAR.IN CLOUD COMPUTING DOCUMENTATION
 **Cloud Computing:** 
 >>EDIT TEKS DIBAWAH INI DENGAN ROLE CC
 
-
 **Mobile Development:**
 >>EDIT TEKS DIBAWAH INI DENGAN MD
-
 
 # Anggar.In Cloud Computing Project Explanation
 This project is our final project for Google Bangkit Academy 2024 Batch 2.
@@ -49,7 +43,7 @@ Leveraging machine learning, cloud computing, and mobile technology, Anggar.In a
 
 **Machine Learning:** 
 
-In the Machine Learning path, we developed several features, starting with our MVP [stock prediction](https://github.com/Anggar-In/Machine-Learning/tree/main/stock_price_predictions) and [recommendation models](https://github.com/Anggar-In/Machine-Learning/tree/main/stockRecommendation)  for a financial freedom calculator. These models utilize TensorFlow, are saved using TensorFlow.js for web deployment, preprocess data using Min-Max Scaler for normalization, and apply time series forecasting for stock price prediction alongside linear regression for stock recommendations. Beyond the MVP, we also building supplementary features beyond the MVP, such as [Receipt OCR](https://github.com/Anggar-In/Machine-Learning/tree/main/Receipt_OCR) and [Audio Recognition](https://github.com/Anggar-In/Machine-Learning/tree/main/AudioRecognition). The Receipt OCR leverages the Pytesseract library for extracting text from images, while the Audio Recognition feature utilizes the WebSpeech API. Both systems are tuned with preprocessing techniques for image or audio and use regex for data extraction. This feature is useful for automating expense and income tracking.
+In the Machine Learning path, we developed several features, starting with our MVP [stock prediction](https://github.com/Anggar-In/Machine-Learning/tree/main/stock_price_predictions) and [recommendation models](https://github.com/Anggar-In/Machine-Learning/tree/main/stockRecommendation) for a financial freedom calculator. These models utilize TensorFlow, are saved using TensorFlow.js for web deployment, preprocess data using Min-Max Scaler for normalization, and apply time series forecasting for stock price prediction alongside linear regression for stock recommendations. Beyond the MVP, we also building supplementary features beyond the MVP, such as [Receipt OCR](https://github.com/Anggar-In/Machine-Learning/tree/main/Receipt_OCR) and [Audio Recognition](https://github.com/Anggar-In/Machine-Learning/tree/main/AudioRecognition). The Receipt OCR leverages the Pytesseract library for extracting text from images, while the Audio Recognition feature utilizes the WebSpeech API. Both systems are tuned with preprocessing techniques for image or audio and use regex for data extraction. This feature is useful for automating expense and income tracking.
 
 **Cloud Computing:** 
 
@@ -60,12 +54,6 @@ In this capstone project, the cloud computing division plans to create a backend
 >>EDIT TEKS DIBAWAH INI DENGAN BACKGROUNDER MOBILE DEVELOPMENT DI PROJECT BRIEF
 
 # How to Use The Code
-**Machine Learning:**
-[Anggar.In Machine Learning Repository](https://github.com/Anggar-In/Machine-Learning)
-**Cloud Computing:**
-[Anggar.In Cloud Computing Repository](https://github.com/Anggar-In/Cloud-Computing)
-**Mobile Development:**
-[Anggar.In Mobile Developments Repository](https://github.com/Anggar-In/Mobile-Development)
-
-
-
+* [Anggar.In Machine Learning Repository](https://github.com/Anggar-In/Machine-Learning)
+* [Anggar.In Cloud Computing Repository](https://github.com/Anggar-In/Cloud-Computing)
+* [Anggar.In Mobile Developments Repository](https://github.com/Anggar-In/Mobile-Development)
