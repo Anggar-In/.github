@@ -51,7 +51,8 @@ In this capstone project, the cloud computing division plans to create a backend
 
 **Mobile Development:** 
 
->>EDIT TEKS DIBAWAH INI DENGAN BACKGROUNDER MOBILE DEVELOPMENT DI PROJECT BRIEF
+from the beginning our team created a project theme about a transaction recording application, then we as mobile developers, first created a UI/UX design using figma from the application, then discussed with the team whether they agreed with the design. Then after the UI design was completed, we created a prototype as the application flow runs on the device later. Then after that we implemented the UI into the application using Android Studio using XML. Then after the machine learning team finished creating the model, then the cloud computing team created the API to be given to the mobile development team. We immediately integrated the API using the retrofit library from Android, which means that this application is used online using the internet.
+
 
 # For More Details
 * Machine Learning: [Anggar.In Machine Learning Repository](https://github.com/Anggar-In/Machine-Learning)
