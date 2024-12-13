@@ -25,7 +25,26 @@
 * Audio Recognition (Income and Expense Tracking) - Muhamad Faqih Zacky (M312B4KY2631)
 
 **Cloud Computing:** 
->>EDIT TEKS DIBAWAH INI DENGAN ROLE CC
+* Create User Registration API - Whilyan Pratama (C312B4KY4470)
+* Create Verify OTP API - Whilyan Pratama (C312B4KY4470)
+* Create Resend OTP API - Whilyan Pratama (C312B4KY4470)
+* Create User Login API - Whilyan Pratama (C312B4KY4470)
+* Create User API - Whilyan Pratama (C312B4KY4470)
+* Create Logout API - Whilyan Pratama (C312B4KY4470)
+* Create User Profile API - Whilyan Pratama (C312B4KY4470)
+* Create Voice Input API - Whilyan Pratama (C312B4KY4470)
+* Create Receipt API - Whilyan Pratama (C312B4KY4470)
+* Create Budget API - Whilyan Pratama (C312B4KY4470)
+* Create Expense API - Whilyan Pratama (C312B4KY4470)
+* Create Category API - Whilyan Pratama (C312B4KY4470)
+* Create Income API - Whilyan Pratama (C312B4KY4470)
+* Create Report Analysis API - Whilyan Pratama (C312B4KY4470)
+* Create API for investment calculator  - Whilyan Pratama (C312B4KY4470)
+* Configuration API using google cloud - Muhammad Alvanditya Sasongko (C214B4KY2719)
+* Deployment ML model for Investment calculator using google storage - Muhammad Alvanditya Sasongko (C214B4KY2719)
+* Create API for investment calculator - Muhammad Alvanditya Sasongko (C214B4KY2719)
+* Create API for Investment recomendation - Muhammad Alvanditya Sasongko (C214B4KY2719)
+* Create API for Investment prediction - Muhammad Alvanditya Sasongko (C214B4KY2719)
 
 **Mobile Development:**
 * login features - Muhammad Alvin Nugraha Sujana (A133B4KY2721)
