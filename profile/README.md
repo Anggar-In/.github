@@ -28,11 +28,11 @@
 >>EDIT TEKS DIBAWAH INI DENGAN ROLE CC
 
 **Mobile Development:**
-login features - Muhammad Alvin Nugraha Sujana (A133B4KY2721)
-register features - Muhammad Alvin Nugraha Sujana (A133B4KY2721)
-OTP verification features - Muhammad Alvin Nugraha Sujana (A133B4KY2721)
-stock predictions features - Muhammad Alvin Nugraha Sujana (A133B4KY2721)
-savings targets features - Muhammad Alvin Nugraha Sujana (A133B4KY2721)
+* login features - Muhammad Alvin Nugraha Sujana (A133B4KY2721)
+* register features - Muhammad Alvin Nugraha Sujana (A133B4KY2721)
+* OTP verification features - Muhammad Alvin Nugraha Sujana (A133B4KY2721)
+* stock predictions features - Muhammad Alvin Nugraha Sujana (A133B4KY2721)
+* savings targets features - Muhammad Alvin Nugraha Sujana (A133B4KY2721)
 
 # Anggar.In Cloud Computing Project Explanation
 This project is our final project for Google Bangkit Academy 2024 Batch 2.
