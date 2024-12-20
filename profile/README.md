@@ -45,6 +45,8 @@
 * Create API for investment calculator - Muhammad Alvanditya Sasongko (C214B4KY2719)
 * Create API for Investment recomendation - Muhammad Alvanditya Sasongko (C214B4KY2719)
 * Create API for Investment prediction - Muhammad Alvanditya Sasongko (C214B4KY2719)
+* Create API for Financial goals - Muhammad Alvanditya Sasongko (C214B4KY2719)
+* Create database with compute engine - Muhammad Alvanditya Sasongko (C214B4KY2719)
 
 **Mobile Development:**
 * login features - Muhammad Alvin Nugraha Sujana (A133B4KY2721)
